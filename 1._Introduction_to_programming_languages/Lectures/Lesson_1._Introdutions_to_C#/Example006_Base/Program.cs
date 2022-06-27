@@ -1,0 +1,9 @@
+﻿int a = 1, b = 2, c = 6, d = 8, e = 4;
+int max = a;
+if(b > max) max = b;
+if(c > max) max = c;
+if(d > max) max = d;
+if(e > max) max = 8;
+
+Console.Write("max = ");
+Console.Write(max);
