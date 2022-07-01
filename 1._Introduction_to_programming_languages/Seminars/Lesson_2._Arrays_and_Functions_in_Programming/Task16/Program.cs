@@ -1,6 +1,6 @@
 ﻿void FindNumber(int number, int currentNumber)
 {
-    if(number * number == currentNumber) Console.WriteLine("Yes");
+    if(number * number == currentNumber || currentNumber * currentNumber == number) Console.WriteLine("Yes");
     else Console.WriteLine("NO");
 }
 
