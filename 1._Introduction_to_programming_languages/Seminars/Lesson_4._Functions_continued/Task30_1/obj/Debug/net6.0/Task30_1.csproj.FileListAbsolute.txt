@@ -1,0 +1,15 @@
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\bin\Debug\net6.0\Task30_1.exe
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\bin\Debug\net6.0\Task30_1.deps.json
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\bin\Debug\net6.0\Task30_1.runtimeconfig.json
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\bin\Debug\net6.0\Task30_1.dll
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\bin\Debug\net6.0\Task30_1.pdb
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\obj\Debug\net6.0\Task30_1.csproj.AssemblyReference.cache
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\obj\Debug\net6.0\Task30_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\obj\Debug\net6.0\Task30_1.AssemblyInfoInputs.cache
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\obj\Debug\net6.0\Task30_1.AssemblyInfo.cs
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\obj\Debug\net6.0\Task30_1.csproj.CoreCompileInputs.cache
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\obj\Debug\net6.0\Task30_1.dll
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\obj\Debug\net6.0\refint\Task30_1.dll
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\obj\Debug\net6.0\Task30_1.pdb
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\obj\Debug\net6.0\Task30_1.genruntimeconfig.cache
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task30_1\obj\Debug\net6.0\ref\Task30_1.dll
