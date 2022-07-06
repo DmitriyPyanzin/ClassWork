@@ -1,0 +1,15 @@
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\bin\Debug\net6.0\Task28.exe
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\bin\Debug\net6.0\Task28.deps.json
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\bin\Debug\net6.0\Task28.runtimeconfig.json
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\bin\Debug\net6.0\Task28.dll
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\bin\Debug\net6.0\Task28.pdb
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\obj\Debug\net6.0\Task28.csproj.AssemblyReference.cache
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\obj\Debug\net6.0\Task28.GeneratedMSBuildEditorConfig.editorconfig
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\obj\Debug\net6.0\Task28.AssemblyInfoInputs.cache
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\obj\Debug\net6.0\Task28.AssemblyInfo.cs
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\obj\Debug\net6.0\Task28.csproj.CoreCompileInputs.cache
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\obj\Debug\net6.0\Task28.dll
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\obj\Debug\net6.0\refint\Task28.dll
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\obj\Debug\net6.0\Task28.pdb
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\obj\Debug\net6.0\Task28.genruntimeconfig.cache
+G:\i_am_programmer\my_programs\ClassWork\1._Introduction_to_programming_languages\Seminars\Lesson_4._Functions_continued\Task28\obj\Debug\net6.0\ref\Task28.dll
