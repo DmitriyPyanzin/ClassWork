@@ -12,12 +12,13 @@
 
 int[] FillArray(int[] array, int start = 0, int end = 0)
 {
-	end++;
-	Random random = new Random();
+	Random random = new Random(end);
 	for(int i = 0; i < array.Length; i ++)
 	{
+        end++;
 		array[i] = random.Next(start, end);
 	}
+	return array;
 }
 
 void PrintArray(int[] array)
