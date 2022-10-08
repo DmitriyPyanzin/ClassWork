@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Введите число: ");
-string number = Console.ReadLine();
+string? number = Console.ReadLine();
 TripleNumber(number);
 
 void TripleNumber(string number)
